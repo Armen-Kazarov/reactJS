@@ -1,0 +1,16 @@
+.menu-btn {
+    background: none;
+    border: none;
+    float: right;
+    color: white;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.sidemenu {
+    background: #9ca1a6;
+    padding: 7px;
+    width: 300px;
+    position: absolute;
+    right: 0;
+}
